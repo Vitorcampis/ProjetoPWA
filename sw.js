@@ -1,5 +1,6 @@
-// sw.js - Service Worker da Barbearia Estilo Premium 
+// sw.js - Service Worker da Barbearia Estilo Premium
 const CACHE = 'barbearia-v1';
+// arquivos
 const ARQUIVOS = [
   './',
   './index.html',
